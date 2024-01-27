@@ -19,6 +19,13 @@ enum number
     NUM4
 };
 
+enum light
+{
+    RED,
+    YELLOW,
+    GREEN
+}	    
+
 //Hello World 
 class Manager
 {
