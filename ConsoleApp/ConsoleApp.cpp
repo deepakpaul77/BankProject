@@ -35,6 +35,10 @@ public:
 	}
 };
 
+class Chess
+{
+    
+};
 
 class ComputerPlayer : public Player {
 public:
