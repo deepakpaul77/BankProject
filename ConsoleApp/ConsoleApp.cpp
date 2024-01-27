@@ -24,11 +24,15 @@ enum light
     RED,
     YELLOW,
     GREEN
-}	    
+};
 
 //Hello World 
 class Manager
 {
+    Manager()
+    {
+        cout << "Manager class created" << endl;
+    }
 };
 
 class Player {
