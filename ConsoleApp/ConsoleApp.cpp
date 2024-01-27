@@ -11,6 +11,14 @@ enum Choice
 	SCISSORS
 };
 
+enum number
+{
+    NUM1,
+    NUM2,
+    NUM3,
+    NUM4
+};
+
 
 class Player {
 public:
