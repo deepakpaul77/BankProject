@@ -6,7 +6,7 @@ using namespace std;
 
 enum Choice
 {
-	ROCK=1,
+	ROCK=1, //comment
 	PAPER,
 	SCISSORS
 };
