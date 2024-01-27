@@ -20,7 +20,9 @@ enum number
 };
 
 //Hello World 
-
+class Manager
+{
+};
 
 class Player {
 public:
